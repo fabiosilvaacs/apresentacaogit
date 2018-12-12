@@ -1,0 +1,10 @@
+build
+target
+nb-configuration.xml
+nbproject/
+.classpath
+.project
+**/*.log
+**/.settings
+**/.sass-cache
+**/node_modules
